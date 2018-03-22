@@ -34,8 +34,10 @@ _index ongoing_
 
 ❐
 
-`03-06-2018` [Prospect Park]() cooties
+`03.06.2018` [Prospect Park]() cooties
 
-`03-08-2018` [SMNT]() mythical kingfishing bastard
+`03.08.2018` [SMNT]() mythical kingfishing bastard
 
-`03-08-2018` [SMNT]() punk rock girl
+`03.08.2018` [SMNT]() punk rock girl
+
+`03.21.2018` [Forest Park]() the cardinality
