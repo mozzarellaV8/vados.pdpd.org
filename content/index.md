@@ -8,23 +8,23 @@ _index ongoing_
 
 ❏
 
-`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05) Buffledives and RB-mergs
+`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05) buffledives and RB-mergs
 
 `01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05-02) sunny sixteen below
 
-`01.21.2018` [SMNT](https://pi.pdpd.org/2018-01-21) Kenny Kiting
+`01.21.2018` [SMNT](https://pi.pdpd.org/2018-01-21) territorial pissings
 
 `01.24.2018` [Ft Greene Park]() red-tails vs. dog-fears
 
 ❏
 
-`02.07.2018` [Leverett Pond](https://pi.pdpd.org/2018-02-07) Wintriest Mix
+`02.07.2018` [Leverett Pond](https://pi.pdpd.org/2018-02-07) wintriest mix
 
-`02.08.2018` [Arnold Arboretum](https://pi.pdpd.org/2018-02-08-aa) Generous Donation
+`02.08.2018` [Arnold Arboretum](https://pi.pdpd.org/2018-02-08-aa) a generous donation
 
 `02.08.2018` [Leverett Emerald](https://pi.pdpd.org/2018-02-08-lp) Latin for 'Coot'
 
-`02.13.2018` [Breezy Point Tip]() ashore
+`02.13.2018` [Breezy Point Tip]() washed ashore
 
 `02.26.2018` [SMNT]() conference call on the rocks
 
@@ -34,10 +34,20 @@ _index ongoing_
 
 ❐
 
-`03.06.2018` [Prospect Park]() cooties
+`03.06.2018` [Prospect Park]() _more_ Latin for 'Coot'
 
 `03.08.2018` [SMNT]() mythical kingfishing bastard
 
-`03.08.2018` [SMNT]() punk rock girl
+`03-08-2018` [SMNT]() punk rock girl
 
 `03.21.2018` [Forest Park]() the cardinality
+
+`03.23.2018` [Brooklyn Botanical Garden]() _the cocktails aren't free_
+
+`03.26.2018` [SMNT]() _heatshimmer-windhover_
+
+`03.27.2018` [SMNT]() copulatory behaviors
+
+❐
+
+`04.02.2018` [Forest Park]() _cardinalis cardinalis_
