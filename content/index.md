@@ -2,15 +2,15 @@
 
 _index ongoing_ • [about](https://vados.pdpd.org/about)
 
-`12.16.2017` [SMNT](http://pi.pdpd.org/2017-12-16-01) fresh powder w/ kenny the kestrel (ch. 1)
+`12.16.2017` [SMNT](http://pi.pdpd.org/2017-12-16a) fresh powder w/ kenny the kestrel (ch. 1)
 
-`12.16.2017` [SMNT](http://pi.pdpd.org/2017-12-16-02) post-blizz show w/ kenny
+`12.16.2017` [SMNT](http://pi.pdpd.org/2017-12-16b) post-blizz show w/ kenny
 
 ❏
 
-`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05) buffledives and RB-mergs
+`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05a) buffledives and RB-mergs
 
-`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05-02) sunny sixteen below
+`01.05.2018` [BK Bridge Park](https://pi.pdpd.org/2018-01-05b) sunny sixteen below
 
 `01.21.2018` [SMNT](https://pi.pdpd.org/2018-01-21) territorial pissings
 
