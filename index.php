@@ -21,6 +21,7 @@ echo '<head>';
 echo '<title>pdpd • avian-AF</title>'; // Site title
 echo '<meta http-equiv="Content-Type" content="text/html;charset=utf-8">';
 echo '<link rel="stylesheet" type="text/css" href="style.css">';
+echo '<link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet">';
 echo '</head>';
 echo '<body>';
 $base = $_GET['dir']; // Get the name of the subdirectory
@@ -57,7 +58,7 @@ else //If not frontpage
     $title = str_replace("/", "", $title);
     $title = str_replace("content", "", $title);
     // Back to index     
-    echo '<div id="index"><a href=".">←Index</a></div>'; //Link back to the index-page
+    echo '<div id="index"><a href=".">🗂</a></div>'; //Link back to the index-page
     echo '<h1>' . $title . '</h1>';
     // Output index text    
     if (file_exists($base . "/index.md"))
@@ -100,7 +101,7 @@ else //If not frontpage
           }
       }
     // Back to index     
-    echo '<div id="index"><a href="https://vados.pdpd.org">←Index</a></div>'; //Link back to the index-page       
+    echo '<div id="index"><h5><a href="https://vados.pdpd.org">➪ 📷 🗂</a></h5></div>'; //Link back to the index-page       
   }
 echo '</div>'; // Closing #main_container
 echo '</body>';
