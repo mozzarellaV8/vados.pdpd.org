@@ -2,11 +2,10 @@ body {
     background: #FFF;
     font-family: serif, sans-serif;
     font-size: 18px;
-    line-height: 0.8em;
+    line-height: 1.2em;
     margin: 0;
     margin-right: 50px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 0px;
     padding-left: 50px;
     color: #000;
 }
@@ -14,11 +13,18 @@ body {
 h1{
     color: #000;
     font-family: serif, sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     font-weight:bold;
 }
 
 h2{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 24px;
+    font-weight:normal;
+}
+
+h3{
     color: #000;
     font-family: serif, sans-serif;
     font-size: 20px;
@@ -32,10 +38,17 @@ h4{
     font-weight:normal;
 }
 
+h5{
+    color: #000;
+    font-family: serif, sans-serif;
+    font-size: 54px;
+    font-weight:bold;
+}
+
 h6{
     color: #000;
     font-family: serif, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight:normal;
     -webkit-margin-before: 2.33em;
     -webkit-margin-after: 0.33em;
@@ -82,7 +95,7 @@ a:visited {
 
 code {
     color: #CD2210;
-    font-family: 'Franklin Gothic', 'Futura', sans-serif;
+    font-family: 'Futura', monospace, sans-serif;
     font-size: 14px;
     text-decoration: none;
     font-weight: lighter;
