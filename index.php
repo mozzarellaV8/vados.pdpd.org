@@ -74,7 +74,7 @@ else //If not frontpage
         if ($ext == "jpg" || $ext == "png" || $ext == "gif" || $ext == "jpeg") //Output images
           {
             echo '<div class="item_container">';
-            echo '<img src="' . $base . '/' . $file . '" alt="' . str_replace(("." . $ext), "", $file) . '">';
+            echo '<a href="https://vados.pdpd.org"><img src="' . $base . '/' . $file . '" alt="' . str_replace(("." . $ext), "", $file) . '"></a>';
             echo '</div>';
           }
         if (($ext == "md" || $ext == "txt" || $ext == "html" || $ext == "htm") && $file != "index.md") //Output all markdownfiles except index.md
