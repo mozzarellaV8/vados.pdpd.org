@@ -17,11 +17,17 @@
 include 'parsedown.php'; // Used to parse markdown
 echo '<!DOCTYPE html>';
 echo '<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">';
-echo '<head>';
-echo '<title>pdpd • avian-AF</title>'; // Site title
+echo '<head profile="https://www.w3.org/2005/10/profile">'; // profile for favicon
+echo '<title>pdpd • avian-AF</title>';    // Site title
 echo '<meta http-equiv="Content-Type" content="text/html;charset=utf-8">';
+echo '<meta property="og:title" content="avian-AF" />'; // opengraph start
+echo '<meta property="og:type" content="website" />';
+echo '<meta property="og:url" content="https://vados.pdpd.org" />';
+echo '<meta property="og:image" content="https://pi.pdpd.org/content/kes800.jpg" />';
+echo '<meta property="og:description" content="Pete Deevakul" />';  // opengraph end
 echo '<link rel="stylesheet" type="text/css" href="style.css">';
-echo '<link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet">';
+echo '<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">'; // google fonts
+echo '<link rel="icon" type="image/png" href="https://vados.pdpd.org/av-fav.png">'; // favicon
 echo '</head>';
 echo '<body>';
 $base = $_GET['dir']; // Get the name of the subdirectory
@@ -45,7 +51,7 @@ if (empty($base)) // If no subdirectory: frontpage
             echo '<div class="item_container">';
             $title = str_replace("_", " ", $result);
             $link  = str_replace("content/", "", $base);
-            echo '<h1><a href="' . $link . $result . '">' . $title . '</a></h1>';
+            echo '<h2><a href="' . $link . $result . '">' . $title . '</a></h2>';
             echo '</div>';
           }
       }
@@ -56,8 +62,7 @@ else //If not frontpage
     // Clean directory names into titles
     $title = str_replace("_", " ", $base);
     $title = str_replace("/", "", $title);
-    $title = str_replace("content", "", $title);
-    // Back to index     
+    $title = str_replace("content", "", $title);    
     echo '<div id="index"><a href=".">🗂</a></div>'; //Link back to the index-page
     echo '<h1>' . $title . '</h1>';
     // Output index text    
