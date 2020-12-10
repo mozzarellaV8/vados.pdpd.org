@@ -36,6 +36,12 @@ _index ongoing_ • [about](https://vados.pdpd.org/about)
 
 ❏
 
+`05.02.2019` [Prospect](https://pi.pdpd.org/2019-0502-fuertes-flicker) Fuertes Flicker _vertical edit_
+
+`05.02.2019` [Prospect](https://pi.pdpd.org/2019-0502-ff-ff) Fuertes Flicker _full frames_
+
+❏
+
 `04.22.2020` [Lookout](https://pi.pdpd.org/2020-0422a-dawnlawn) dawnlawn
 
 `04.22.2020` [Lookout](https://pi.pdpd.org/2020-0422b-lawndawn) lawndawn
