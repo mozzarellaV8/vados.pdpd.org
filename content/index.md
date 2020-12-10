@@ -33,3 +33,14 @@ _index ongoing_ • [about](https://vados.pdpd.org/about)
 `11.01.2018` [SMNT](https://pi.pdpd.org/2018-1101-bluejay-bathtime) bathtime for bluejays
 
 `12.08.2018` [Ramble](https://pi.pdpd.org/2018-1208-titmouse-tussle) tufted titmouse territory tussle
+
+❏
+
+`04.22.2020` [Lookout](https://pi.pdpd.org/2020-0422a-dawnlawn) dawnlawn
+
+`04.22.2020` [Lookout](https://pi.pdpd.org/2020-0422b-lawndawn) lawndawn
+
+`04.22.2020` [Lookout](https://pi.pdpd.org/2020-0422c-doglawn) dog lawn
+
+`XX.XX.2020` [Prospect](https://pi.pdpd.org/2020-spring-robinmix) mo robins (springmix)
+
